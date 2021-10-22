@@ -60,8 +60,8 @@ If your environment is stopped due to inactivity feature, please follow the belo
 
 1. Please go to the Lab environment details provided in the right side of the environment and select Lab Resources
 
-   ![](images/cand-01.png.png "Environment details")
+   ![](https://raw.githubusercontent.com/himanshuahlawat31/MCW-Machine-Learning/master/Hands-on%20lab/images/cand-01.png)
    
 2. In Lab Resources, please select the start all virtual machines button to start the resources
 
-   ![](images/cand-02.png.png "Lab Resources")
+   ![](https://raw.githubusercontent.com/himanshuahlawat31/MCW-Machine-Learning/master/Hands-on%20lab/images/cand-02.png)
