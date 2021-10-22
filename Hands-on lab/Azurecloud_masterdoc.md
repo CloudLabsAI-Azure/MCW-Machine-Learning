@@ -54,3 +54,14 @@
    
 1. Now, click on the **Resource group** 
 
+## Resource Start/Stop
+
+If your environment is stopped due to inactivity feature, please follow the below steps to start the resources: 
+
+1. Please go to the Lab environment details provided in the right side of the environment and select Lab Resources
+
+   ![](images/cand-01.png.png "Environment details")
+   
+2. In Lab Resources, please select the start all virtual machines button to start the resources
+
+   ![](images/cand-02.png.png "Lab Resources")
